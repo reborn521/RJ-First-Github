@@ -1,4 +1,4 @@
-
+# create the conda environment
 
 conda create --name code_env python=3.7
 source activate code_env
